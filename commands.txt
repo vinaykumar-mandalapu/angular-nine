@@ -1,1 +1,4 @@
 ng build --prod --output-path docs --base-href "https://vinaykumar-mandalapu.github.io/angular-nine/"
+git add .
+git commit -m "generated deployables"
+git push -u origin master
